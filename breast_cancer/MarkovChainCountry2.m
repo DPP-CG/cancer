@@ -15,7 +15,7 @@ close all
  nsims=10000;
 %Country-specific parameters
 probAgeA=PAR{1};
-MortDFbyAge=PAR{2};
+MortDFbyAge=PAR{2}; % dahksajkh
 for i = 80:101
 MortDFbyAge(i)=MortDFbyAge(i-1)* MortDFbyAge(79)/MortDFbyAge(78);
 end
