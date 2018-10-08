@@ -1,0 +1,2 @@
+September-23-2018: changes made by Shifali 
+1. Added the code in ProcessModel_edit file to read the data from res4 file for population by age & natural mortality by age for both male and female separately. 
